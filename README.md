@@ -24,8 +24,7 @@ Ta nhận thấy có sự phân phối đa thức (multimodel distribution) tron
    ```bash
    git clone https://github.com/yourusername/your-repository.git
    cd your-repository
-2. **Tải các thư viện**
-  pip install -r requirements.txt
-3. **Chạy file app.py tại thư mục của bạn trên terminal**
+
+2. **Chạy file app.py tại thư mục của bạn trên terminal**
    streamlit run app.py
 
